@@ -1,6 +1,6 @@
 # AI Coding Assistant: Is Google Bard Better than ChatGPT?
 
-I've already successfully built one app entirely with ChatGPT and GPT-4, but ChatGPT isn't the only AI game in town. Google's answer to ChatGPT is affectionately known as Google Bard, and it claims to understand code better than GPT. So, we will put it to the test.
+I've already [successfully built one app entirely with ChatGPT and GPT-4](https://www.youtube.com/watch?v=Ccbx765Gt1U), but ChatGPT isn't the only AI game in town. Google's answer to ChatGPT is affectionately known as Google Bard, and it claims to understand code better than GPT. So, we will put it to the test.
 
 Can Google Bard build the same app I instructed ChatGPT to build?
 
@@ -13,4 +13,4 @@ Let's find out.
 - Finish tag: [link](releases/tag/finish)
 - Google Bard prompts: [link](https://tldr.st/AA)
 
-![YouTube Video Thumbnail](.docs/Thumbnail.jpg)
+[![YouTube Video Thumbnail](.docs/Thumbnail.jpg)](https://youtu.be/XlitNIdfNhw)
